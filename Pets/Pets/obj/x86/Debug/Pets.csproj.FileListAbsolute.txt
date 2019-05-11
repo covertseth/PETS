@@ -1,0 +1,6 @@
+/Users/qjcbq2/Projects/Pets/Pets/bin/Debug/Pets.exe
+/Users/qjcbq2/Projects/Pets/Pets/bin/Debug/Pets.pdb
+/Users/qjcbq2/Projects/Pets/Pets/obj/x86/Debug/Pets.csprojAssemblyReference.cache
+/Users/qjcbq2/Projects/Pets/Pets/obj/x86/Debug/Pets.csproj.CoreCompileInputs.cache
+/Users/qjcbq2/Projects/Pets/Pets/obj/x86/Debug/Pets.exe
+/Users/qjcbq2/Projects/Pets/Pets/obj/x86/Debug/Pets.pdb
